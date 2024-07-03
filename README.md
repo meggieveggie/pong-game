@@ -14,11 +14,13 @@ Pong is one of the earliest arcade video games, and it features simple two-dimen
 ## Controls
 
 Player 1:
+
 Move Up: W
 
 Move Down: S
 
 Player 2:
+
 Move Up: Up Arrow
 
 Move Down: Down Arrow
