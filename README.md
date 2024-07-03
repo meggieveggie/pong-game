@@ -1,6 +1,6 @@
 # Pong Game
 
-A simple implementation of the classic Pong game using Python and the Pygame library.
+A simple implementation of the classic Pong game using Python and the Turtle library.
 
 ## Table of Contents
 
